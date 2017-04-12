@@ -24,4 +24,7 @@ namespace GiftExchangeApp.Models
         public Nullable<double> Weight { get; set; }
         public Nullable<bool> IsOpened { get; set; }
     }
+
+   
+
 }
